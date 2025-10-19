@@ -9,6 +9,7 @@ git clone https://github.com/Sreddy08840/social-network-site.git
 cd social-network-site
 ```
 
+
 **GitHub:** [https://github.com/Sreddy08840/social-network-site](https://github.com/Sreddy08840/social-network-site)
 
 ## Features
@@ -375,5 +376,6 @@ For issues, questions, or suggestions:
 ---
 
 **Built with ❤️ using Java, JSP, Servlets, and MySQL**
-#   s o c i a l - n e t w o r k - s i t e  
+#   s o c i a l - n e t w o r k - s i t e 
+ 
  
