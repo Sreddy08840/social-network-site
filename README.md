@@ -374,7 +374,42 @@ For issues, questions, or suggestions:
 
 ---
 
+## 🌟 Live Demo
+
+**GitHub Repository:** [https://github.com/Sreddy08840/social-network-site](https://github.com/Sreddy08840/social-network-site)
+
+### Quick Start
+
+```bash
+# Clone the repository
+git clone https://github.com/Sreddy08840/social-network-site.git
+cd social-network-site
+
+# Setup database
+mysql -u root -p < database/schema.sql
+
+# Build project
+mvn clean package
+
+# Deploy to Tomcat
+# Copy target/social-network.war to Tomcat webapps folder
+```
+
+**Test Accounts:**
+- Email: `john@example.com` | Password: `password123`
+- Email: `jane@example.com` | Password: `password123`
+
+---
+
+## 📊 Project Statistics
+
+- **47+ Source Files**
+- **6,400+ Lines of Code**
+- **Full-Stack Implementation**
+- **Production-Ready**
+
+---
+
 **Built with ❤️ using Java, JSP, Servlets, and MySQL**
-#   s o c i a l - n e t w o r k - s i t e 
- 
- 
+
+**Made by:** [Sreddy08840](https://github.com/Sreddy08840)
