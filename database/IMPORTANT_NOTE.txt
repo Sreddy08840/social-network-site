@@ -1,0 +1,39 @@
+✅ DATABASE SETUP - SAMPLE ACCOUNTS READY TO USE
+
+The schema.sql file now includes valid BCrypt password hashes.
+
+After running the database schema, you can immediately login with:
+
+TEST ACCOUNTS:
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Account 1:
+  Email:    john@example.com
+  Password: password123
+  Name:     John Doe
+
+Account 2:
+  Email:    jane@example.com
+  Password: password123
+  Name:     Jane Smith
+
+Account 3:
+  Email:    bob@example.com
+  Password: password123
+  Name:     Bob Johnson
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+QUICK SETUP:
+1. Start MySQL server
+2. Run: mysql -u root -p
+3. Run: source E:/social-network-site/database/schema.sql
+4. Update DatabaseConnection.java with your MySQL password
+5. Build: mvn clean package
+6. Deploy to Tomcat
+7. Login with any account above!
+
+For detailed setup instructions, see DATABASE_SETUP.md
+
+PASSWORD HASH USED:
+$2a$10$N9qo8uLOickgx2ZMRZoMyeIjZAgcfl7p92ldGxad68LJZdL17lhWy
+
+This is a valid BCrypt hash for the password "password123"

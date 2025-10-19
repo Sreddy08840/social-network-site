@@ -1,0 +1,6 @@
+<svg width="200" height="200" xmlns="http://www.w3.org/2000/svg">
+  <rect width="200" height="200" fill="#e0e0e0"/>
+  <circle cx="100" cy="70" r="35" fill="#9e9e9e"/>
+  <ellipse cx="100" cy="160" rx="60" ry="45" fill="#9e9e9e"/>
+  <text x="100" y="195" font-family="Arial, sans-serif" font-size="14" fill="#666" text-anchor="middle">Default Avatar</text>
+</svg>
